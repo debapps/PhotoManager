@@ -4,11 +4,12 @@ PhotoManager is a full-fledged Image browsing and Editing Softwere created with 
 
 ## Packages Used:
 
-Tkinter - for GUI.
-PIL - for Image Processing.
+- Tkinter - for GUI.
+- PIL - for Image Processing.
 
-*** To get PIL enter following command:
-pip install Pillow
+*** To get PIL enter following command: *** 
+
+`pip install Pillow`
 
 ## Features:
 
